@@ -1,7 +1,7 @@
 {
-    "functions": {
-      "api/ab.js": {
-        "runtime": "edge"
-      }
+  "functions": {
+    "api/ab.js": {
+      "runtime": "edge"
     }
   }
+}
