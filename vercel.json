@@ -1,0 +1,7 @@
+{
+    "functions": {
+      "api/ab.js": {
+        "runtime": "edge"
+      }
+    }
+  }
